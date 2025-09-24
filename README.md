@@ -19,9 +19,10 @@ This project focuses on predicting daily mood based on morning routine activitie
 - **Data Preprocessing** : Feature engineering and scaling using MinMaxScaling for optimal model performance
 
 ### Resource
-Download dataset in here [tautan berikut](https://www.kaggle.com/datasets/jayeshx19/morning-routine-dataset)
+Download dataset in here [link](https://www.kaggle.com/datasets/jayeshx19/morning-routine-dataset)
 
-
+## Application Access
+Application Access in here [link](https://mood-prediction.streamlit.app)
 ## Instalation and Setup
 ### Prerequisites
 - Python 3.10.17 or higher
