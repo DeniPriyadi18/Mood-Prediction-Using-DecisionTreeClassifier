@@ -30,7 +30,7 @@ Download dataset in here [tautan berikut](https://www.kaggle.com/datasets/jayesh
 ### Clone Repository
 ```
 git clone https://github.com/DeniPriyadi18/Mood-Prediction-Using-DecisionTreeClassifier.git
-cd
+cd mood-prediction-morning-routine
 ```
 
 ### Install Dependencies
